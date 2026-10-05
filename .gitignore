@@ -10,3 +10,4 @@ results/*.vocab
 results_bundle.zip
 
 .ipynb_checkpoints/
+.DS_Store
